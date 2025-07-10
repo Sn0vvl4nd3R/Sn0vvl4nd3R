@@ -15,7 +15,7 @@
 | Language/Tool    | Notes                                          |
 | ---------------- | ---------------------------------------------- |
 | **C / C++**      | systems programming, performance‑critical code |
-| **Python**       | rapid prototyping, ML pipelines (PyTorch)      |
+| **Python**       | rapid prototyping, ML pipelines                |
 | **Rust**         | memory‑safe systems experiments                |
 | **Assembly**     | reverse engineering, compiler back‑end tests   |
 | **Bash / Zsh**   | automation scripts                             |
